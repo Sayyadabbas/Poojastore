@@ -1,0 +1,38 @@
+
+    1  yum update 
+    2  yum install java -y
+    3  yum install git -y
+    4  git clone https://github.com/Sayyadabbas/Poojastore.git
+    5  yum install docker -y
+    6  docker --version
+    7  vi Docker 
+    8  systemctl docker start 
+    9  vi Docker
+   10  vi Docker file 
+   11  rm-rf Docker file
+   12  rm rf Docker file
+   13  rm -rf Docker
+   14  rm -rf Docker file
+   15  ll
+   16  cd  Poojastore
+   17  ll
+   18  cd ppojastores/
+   19  ll
+   20  cd trunk/
+   21  ll
+   22  cd PoojaStores/
+   23  vi Dockerfile
+   24  docker build -t pooja .
+   25  systemctl start docker 
+   26  systemctl status  docker 
+   27  docker build -t pooja .
+   28  docker image prune -a -f
+   29  docker build -t pooja .
+   30  docker images
+   31  vi .env
+   32  docker rum -d -p 5000:80 pooja 
+   33  docker run -d -p 5000:80 pooja 
+   34  histpry
+   35  cd ..
+   36  history
+[root@ip-172-31-46-249 ~]# 
